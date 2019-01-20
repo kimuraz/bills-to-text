@@ -3,3 +3,4 @@ README.md
 venv
 imgs
 __pycache__
+*.db
